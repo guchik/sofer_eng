@@ -19,7 +19,8 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "versionFirst": "3.9.0",
     "uniqCompNum": 14,
@@ -647,8 +648,8 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
-            "transparent": false,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#c1c1c1",
             "fontSize": "0.95",
             "fontName": {
